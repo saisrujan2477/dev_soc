@@ -188,25 +188,27 @@ This project demonstrates several important React concepts including:
 
 ## Home Page
 
-*(Insert homepage screenshot here)*
+<img width="947" height="458" alt="Screenshot 2026-07-10 151800" src="https://github.com/user-attachments/assets/a13000a5-376d-48b8-9069-65f1e01e948b" />
 
 ---
 
 ## Notice Details
 
-*(Insert notice details screenshot here)*
+<img width="935" height="441" alt="Screenshot 2026-07-10 151829" src="https://github.com/user-attachments/assets/c29bd749-413c-4762-a5b1-edf29acf6ca3" />
 
 ---
 
 ## Event Details
 
-*(Insert event details screenshot here)*
+<img width="941" height="428" alt="Screenshot 2026-07-10 151852" src="https://github.com/user-attachments/assets/432af8fe-1775-4267-9151-443d139067e4" />
+
 
 ---
 
 ## Dark Mode
 
-*(Insert dark mode screenshot here)*
+<img width="934" height="431" alt="image" src="https://github.com/user-attachments/assets/62a0f285-5f75-42d4-af4c-0206fcceaa69" />
+
 
 ---
 
@@ -215,7 +217,7 @@ This project demonstrates several important React concepts including:
 Live Demo:
 
 ```
-https://your-netlify-link.netlify.app
+https://kgp-campus-connect.netlify.app/
 ```
 
 ---
